@@ -65,10 +65,6 @@ A blockchain-powered road safety dApp that leverages AI and dashcam footage to g
 - Cross-blockchain compatibility
 - Integration with navigation systems
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
