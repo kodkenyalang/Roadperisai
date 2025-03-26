@@ -19,7 +19,7 @@ A blockchain-powered road safety dApp that leverages AI and dashcam footage to g
 - **Maps**: Leaflet with OpenStreetMap integration
 - **Blockchain**: Polygon (Ethereum Layer-2)
 - **Storage**: Filecoin/IPFS via Web3.Storage
-- **AI**: OpenAI GPT-4o Vision for image/video analysis
+- **AI**: OpenAI GPT-4o Vision for image/video analysis(Upgradeable and customisable)
 
 ## 📋 Prerequisites
 
